@@ -2,8 +2,6 @@ package com.Jvnyor.aulas.tema2.modulo3.GereEscola;
 
 import java.util.Calendar;
 
-import com.Jvnyor.aulas.tema2.modulo3.Pessoa;
-
 public class Principal {
 
 	private static Pessoa ref [];

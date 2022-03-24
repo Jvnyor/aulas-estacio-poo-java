@@ -7,7 +7,7 @@ public class Fisica extends Pessoa {
 		// TODO Auto-generated constructor stub
 	}
 
-	protected String identificador;
+	protected String identificador, nome, nacionalidade, naturalidade;
 	
 	public boolean validaCPF ( String CPF ) {
 		boolean check = false;
